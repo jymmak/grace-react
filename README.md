@@ -23,7 +23,7 @@ Realizar con react la página de Grace Huper,nacida en Nueva York (EE. UU.). cie
 
 ## Producto
 
-![image](assets/images/.png)
+![image](src/components/images/readme.png)
 
 
 ## Licencia
