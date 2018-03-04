@@ -4,8 +4,8 @@ import './css/footer.css'
 class Footer extends Component {
   render() {
     return (
-      <div className='h30' >
-
+      <div className='foot text-center' >
+        <p>&#9400; Grace Hupper technologies Inc.</p>
       </div>
     );
   }
