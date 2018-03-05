@@ -28,8 +28,7 @@ class Aside extends Component {
             </tr>
             <tr>
               <th>Born</th>
-              <td>December 9, 1906 <br />
-                New York City, New York, U.S.</td>
+              <td>December 9, 1906 <br /> New York City, New York, U.S.</td>
             </tr>
             <tr>
               <th>Died</th>
@@ -49,8 +48,8 @@ class Aside extends Component {
               <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/35px-Flag_of_the_United_States_Navy.svg.png" alt="U.S" /><a href="#">United States Navy</a></td>
             </tr>
             <tr>
-              <th>Years of <br />
-                service</th>
+              <th>Years of <br /> service
+                </th>
               <td>1943–1966, 1967–1971, 1972–1986</td>
             </tr>
             <tr>
@@ -59,8 +58,8 @@ class Aside extends Component {
             </tr>
             <tr>
               <th className="sum">Awards</th>
-              <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Defense_Distinguished_Service_Medal_ribbon.svg/22px-Defense_Distinguished_Service_Medal_ribbon.svg.png" />Defense Distinguished Service<br />
-                Medal<br />
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Defense_Distinguished_Service_Medal_ribbon.svg/22px-Defense_Distinguished_Service_Medal_ribbon.svg.png" />Defense Distinguished Service<br /> Medal
+                    <br />
               </td>
             </tr>
           </tbody>
