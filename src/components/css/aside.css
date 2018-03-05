@@ -1,0 +1,13 @@
+.summary {
+  width: 30%;
+  float: right;
+  display: inline-block;
+  margin-top:2%;
+  background-color:#d5dee7;
+  padding:5%;
+}
+
+.sum{
+  margin-top:2%;
+  display: inline-block;
+}
