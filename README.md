@@ -21,16 +21,15 @@ La composiciópn la tenemos en App, son cuatro componentes header, main, aside y
 * React
 
 
+## Producto
+
+![image](src/components/images/readme.png)
+
 
 ## Autor
 
 * Jymma Mogollon
 
-
-
-## Producto
-
-![image](src/components/images/readme.png)
 
 
 ## Licencia
